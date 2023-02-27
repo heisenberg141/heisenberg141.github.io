@@ -1,9 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - heisenberg141
+  
 
 github_repos:
-  - alshedivat/al-folio
+  - heisenberg141/Advance-path-planning-algorithms-on-2D-Grid
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
