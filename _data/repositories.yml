@@ -3,10 +3,9 @@ github_users:
   
 
 github_repos:
+  - heisenberg141/hybrid-a-star-for-car-parking
   - heisenberg141/Advance-path-planning-algorithms-on-2D-Grid
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - heisenberg141/Deep-Learning-from-scratch
+  - heisenberg141/Drowsiness-Detection
+  - heisenberg141/Visual-Odometry
+  - heisenberg141/Dynamic Modelling-of-Manipulator-Arm
