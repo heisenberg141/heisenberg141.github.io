@@ -7,6 +7,16 @@
       value: 14th January 1998
     - name: Languages
       value: English, Hindi
+      
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Hitesh Bhojwani
+    - name: Date of Birth
+      value: 14th January 1998
+    - name: Languages
+      value: English, Hindi
 
 - title: Education
   type: time_table
