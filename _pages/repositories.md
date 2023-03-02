@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: projects
-description: I have showcased my github profile and my projects.
+description: Here, I have showcased my github profile and my projects.
 nav: true
 nav_order: 4
 ---
