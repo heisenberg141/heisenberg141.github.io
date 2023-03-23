@@ -4,6 +4,7 @@ github_users:
 
 github_repos:
   - heisenberg141/Probability-Based-Boundary-Detection
+  - heisenberg141/CameraCalibration
   - heisenberg141/Deep-Learning-from-scratch
   - heisenberg141/hybrid-a-star-for-car-parking
   - heisenberg141/Advance-path-planning-algorithms
