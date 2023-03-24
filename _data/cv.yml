@@ -50,8 +50,9 @@
       institution: IIIT Delhi
       year: Dec 2020 - Jul 2021
       description:
-        - Calibrated a multiple camera setup with reprojection error of 3% and performed image stitching using homography matching to generate an accurate map of a large indoor environment.
-        - Utilized ROS and OpenCV to design and implement a computer vision pipeline for April tag based localization of mobile robots in a given map. 
+        - Wrote a computer vision pipeline for automatic calibration and image stitching from multiple cameras using homography and image blending for tag based localization and tracking of multiple robots in an indoor environment.
+        - Designed a software architecture for automatic time synchronization, and communication between multiple edge devices using socket programming to comunicate information about position of robots and other obstacles. 
+    
 
     - title: Research Intern
       institution: BotLab Dynamics IIT Delhi
